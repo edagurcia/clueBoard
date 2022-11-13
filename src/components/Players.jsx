@@ -12,6 +12,7 @@ const Players = () => {
         <input type="text" name="player4" placeholder="C" maxLength={1} />
         <input type="text" name="player5" placeholder="D" maxLength={1} />
         <input type="text" name="player6" placeholder="E" maxLength={1} />
+        <input type="text" name="player7" placeholder="F" maxLength={1} />
       </InputContainer>
     </PlayersContainer>
   );
